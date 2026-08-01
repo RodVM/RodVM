@@ -1,16 +1,67 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Rodolfo Valentin Miola
 
-<!--
-**RodVM/RodVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Desenvolvimento de Sistemas formado pela ETEC Rodrigues de Abreu (Bauru).
 
-Here are some ideas to get you started:
+💻 Tenho interesse em Desenvolvimento de Software, Desenvolvimento Web, Desenvolvimento Mobile e Banco de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estou em busca da minha primeira oportunidade na área de Tecnologia da Informação.
+
+---
+
+## 💼 Tecnologias
+
+💻 Linguagens
+
+- Java
+- C#
+- PHP
+- JavaScript
+- SQL
+
+🌐 Desenvolvimento Web
+
+- HTML5
+- CSS3
+- APIs REST
+
+📱 Mobile
+
+- Android Studio
+
+🗄 Banco de Dados
+
+- MySQL
+- MongoDB
+- SQLite
+
+🛠 Ferramentas
+
+- Git
+- GitHub
+- Postman
+- MySQL Workbench
+
+---
+
+## 📚 Projetos
+
+📌 Sistema Online de Gerenciamento de Interclasses (TCC)
+
+📌 Aplicativos Android
+
+📌 Projetos Web com PHP
+
+---
+
+## 🎯 Objetivo
+
+Atualmente busco minha primeira oportunidade na área de Tecnologia da Informação para aplicar meus conhecimentos, adquirir experiência profissional e evoluir continuamente.
+
+---
+
+## 📫 Contato
+
+📧 rooh_valentin@hotmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rodolfovalentin/
